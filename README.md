@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @khalilusman
+- 👋 Hi, I’m Muhammad Usman Khalil
 - 👀 I’m interested in Data Science and ML algorithms
 - 🌱 I’m currently learning Neural Network
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on linkedin from link www.linkedin.com/in/khalilusman70
+- 💞️ I’m looking to collaborate on Neural Projects
+- 📫 You can reach me on linkedin www.linkedin.com/in/khalilusman70
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
